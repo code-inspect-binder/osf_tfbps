@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/tfbps_src/Files of earlier manuscript versions")' >> /home/jovyan/.Rprofile
